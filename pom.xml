@@ -10,9 +10,9 @@
     </parent>
 
     <groupId>com.shenlan</groupId>
-    <artifactId>springboot</artifactId>
+    <artifactId>statusauth</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot</name>
+    <name>statusauth</name>
     <packaging>pom</packaging>
     <description>Demo project for Spring Boot</description>
 
