@@ -12,5 +12,6 @@ public class MyController {
     public String adminEndpoint() {
         return "Welcome to the admin area!";
     }
+
 }
 
