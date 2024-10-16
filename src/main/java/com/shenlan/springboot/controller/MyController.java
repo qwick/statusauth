@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyController {
 
     @GetMapping("/admin")
-    @RequiresPermission("ADMIN")
+//    @RequiresPermission("ADMIN")
     public String adminEndpoint() {
         return "Welcome to the admin area!";
     }
